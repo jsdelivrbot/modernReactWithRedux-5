@@ -1,0 +1,27 @@
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.jumbotron {
+    background-color: #272E39 !important;
+    padding: 100px 0 !important;
+    border-radius: 0px !important;
+}
+
+.jumbotron h1 {
+    color: #0AB9BE;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+svg {
+    height: 150px;
+}
+
+td:first-of-type, td:first-of-type>div {
+    height: 200px;
+    width: 250px;
+}
